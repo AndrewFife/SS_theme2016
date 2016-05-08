@@ -3,12 +3,12 @@
 /**
  * Custom amendments for the theme.
  *
- * @category   Genesis_Sandbox
+ * @category   SS_Theme2016
  * @package    Functions
  * @subpackage Functions
- * @author     Travis Smith and Jonathan Perez
+ * @author     Andrew Fife
  * @license    http://www.opensource.org/licenses/gpl-license.php GPL v2.0 (or later)
- * @link       http://surefirewebservices.com/
+ * @link       http://ucc.co.za/
  * @since      1.1.0
  */
 
