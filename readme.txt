@@ -1,4 +1,4 @@
-<h1>Genesis Sandbox (Free Version)</h1>
+<h1>Shark & Safari Theme 2016 - Fork from Genesis Sandbox (Free Version)</h1>
 
 <h2>Installation</h2>
 <ol>
