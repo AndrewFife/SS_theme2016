@@ -1,9 +1,9 @@
 
 /*
-    Theme Name: Genesis Sandbox
-    Description: This is a start kit for to devevelop your own themes for the Genesis Framework
-    Author: Jonathan Perez and Travis Smith (wpsmith.net)
-    Author URI: http://www.surefirewebservices.com/
+    Theme Name: Shark & Safari Theme 2016
+    Description: Modified from Genisi Sandbox by Jonathan Perez and Travis Smith (wpsmith.net)
+    Author: Andrew Fife
+    Author URI: http://www.ucc.co.za
  
     Version: 2.0
  
@@ -49,7 +49,7 @@
 /*
 01 Import Fonts
 ---------------------------------------------------------------------------------------------------- */
-@import url(//fonts.googleapis.com/css?family=Arimo|Varela);
+@import url(//fonts.googleapis.com/css?family=Lato|Varela);
 
 /*
 02 Base Styles
@@ -476,6 +476,7 @@ h6,
   float: left;
   min-height: 120px;
   overflow: hidden;
+  text-indent: -9999px;
   width: 50%;
 }
 
